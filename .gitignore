@@ -29,3 +29,4 @@ htmlcov/
 .direnv
 
 ci-cd-codepipeline.cfn.yml
+ci-cd-codepipeline.cfn.yml $ git rm --cached ci-cd-codepipeline.cfn.yml rm ci-cd-codepipeline.cfn.yml $ git commit -m ignore ci-cd
